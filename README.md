@@ -161,7 +161,7 @@ Illustrates the process of counting ballots and declaring official results.
 
 Highlights important democratic principles that ensure fair elections.
 
-<img src="./screenshots/key-concepts.png" alt="Key Concepts 1">
+<img src="./screenshots/key-concepts 1.png" alt="Key Concepts 1">
 
 ---
 
@@ -169,7 +169,7 @@ Highlights important democratic principles that ensure fair elections.
 
 Explains election integrity, independent commissions, and voter rights.
 
-<img src="./screenshots/key-concepts-2.png" alt="Key Concepts 2">
+<img src="./screenshots/key-concepts 2.png" alt="Key Concepts 2">
 
 ---
 
