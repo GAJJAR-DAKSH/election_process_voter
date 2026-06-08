@@ -132,7 +132,7 @@ A visually engaging landing page introducing elections and the importance of inf
 
 Explains how citizens become eligible voters through registration.
 
-<img src="./screenshots/election-process-1.png" alt="Election Process 1">
+<img src="./screenshots/election-process 1.png" alt="Election Process 1">
 
 ---
 
@@ -140,7 +140,7 @@ Explains how citizens become eligible voters through registration.
 
 Demonstrates how candidates present their ideas and policies to voters.
 
-<img src="./screenshots/election-process-2.png" alt="Election Process 2">
+<img src="./screenshots/election-process 2.png" alt="Election Process 2">
 
 ---
 
@@ -164,7 +164,7 @@ Illustrates the process of counting ballots and declaring official results.
 
 Highlights important democratic principles that ensure fair elections.
 
-<img src="./screenshots/key-concepts-1.png" alt="Key Concepts 1">
+<img src="./screenshots/key-concepts.png" alt="Key Concepts 1">
 
 ---
 
