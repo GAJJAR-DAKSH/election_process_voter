@@ -194,7 +194,7 @@ Encourages civic participation and provides quick navigation links.
 Watch the complete project walkthrough:
 
 🔗 **Demo Video:**
-https://drive.google.com/file/d/11Zz37YxcG8HHtKt65aP6hjGzlIvkw59J/view?usp=sharing
+https://drive.google.com/file/d/1WFbCtL8LA82W64neQpHLn0B0nrsiXKkI/view?usp=sharing
 
 ---
 
