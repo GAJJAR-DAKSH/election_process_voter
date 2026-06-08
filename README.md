@@ -140,15 +140,12 @@ Explains how citizens become eligible voters through registration.
 
 Demonstrates how candidates present their ideas and policies to voters.
 
-<img src="./screenshots/election-process 2.png" alt="Election Process 2">
-
----
-
 ### 🗳️ Election Day & Voting
 
 Shows how votes are securely cast and protected.
 
-<img src="./screenshots/election-process-3.png" alt="Election Process 3">
+<img src="./screenshots/election-process 2.png" alt="Election Process 2">
+
 
 ---
 
@@ -156,7 +153,7 @@ Shows how votes are securely cast and protected.
 
 Illustrates the process of counting ballots and declaring official results.
 
-<img src="./screenshots/election-process-4.png" alt="Election Process 4">
+<img src="./screenshots/election-process 3.png" alt="Election Process 4">
 
 ---
 
